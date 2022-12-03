@@ -1,24 +1,5 @@
 .App {
   text-align: center;
-  position: static;
-}
-
-.first {
-  width: 100px;
-  height: 100px;
-  background-color: #61dafb;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-}
-
-.second {
-  width: 100px;
-  height: 100px;
-  background-color: bisque;
-  position: absolute;
-  top: 30%;
-  left: 30%;
 }
 
 .App-logo {
